@@ -1,5 +1,7 @@
 # clickup-daily-queue
 
+> **Archived.** This project is no longer maintained. The ClickUp MCP integration available through Claude.ai (claude.ai/code) now covers this use case natively.
+
 MCP server that exposes a daily ClickUp task queue for Claude Desktop.
 
 ClickUp's API date filters are unreliable -- they return tasks outside the requested range. This server handles the post-filtering so you get accurate results.
